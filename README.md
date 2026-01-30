@@ -8,3 +8,8 @@ Développement Frontend : Génération de structures de composants et aide au st
 Correction et Optimisation : Révision de certaines fonctions complexes pour améliorer la performance, la sécurité et la lisibilité du code.
 
 Débogage : Aide à l'identification et à la résolution de bugs spécifiques durant la phase de développement.
+
+## Accès au Projet
+Le projet est déployé et consultable en ligne à l'adresse suivante :
+
+**(https://dms5104a.mmiweb.iut-tlse3.fr/salon%20du%20livre%20V2/index.php)**
